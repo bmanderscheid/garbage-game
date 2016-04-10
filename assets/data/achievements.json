@@ -1,0 +1,112 @@
+{
+  "streakAchievements": {
+    "min": 6,
+    "max": 10
+  },
+  "jokerAchievements": {
+    "min": 1,
+    "max": 3
+  },
+  "winStreakAchievements": {
+    "min": 4,
+    "max": 10
+  },
+  "achievements": [
+    {
+      "id": "streak6",
+      "type": "streak",
+      "copy": "6 CARD\nSTREAK",
+      "message": "PLAY 6 CONSECUTIVE CARDS",
+      "frame": "streak6",
+      "maxEarned": 3
+    },
+    {
+      "id": "streak7",
+      "type": "streak",
+      "copy": "7 CARD\nSTREAK",
+      "message": "PLAY 7 CONSECUTIVE CARDS",
+      "frame": "streak7",
+      "maxEarned": 3
+    },
+    {
+      "id": "streak8",
+      "type": "streak",
+      "copy": "8 CARD\nSTREAK",
+      "message": "PLAY 8 CONSECUTIVE CARDS",
+      "frame": "streak8",
+      "maxEarned": 3
+    },
+    {
+      "id": "streak9",
+      "type": "streak",
+      "copy": "9 CARD\nSTREAK",
+      "message": "PLAY 9 CONSECUTIVE CARDS",
+      "frame": "streak9",
+      "maxEarned": 3
+    },
+    {
+      "id": "streak10",
+      "type": "streak",
+      "copy": "10 CARD\nSTREAK",
+      "message": "PLAY 10 CONSECUTIVE CARDS",
+      "frame": "streak10",
+      "maxEarned": 3
+    },
+    {
+      "id": "joker1",
+      "type": "joker",
+      "copy": "PLAYED 1\nJOKER",
+      "message": "PLAY A JOKER CARD IN ONE ROUND",
+      "frame": "joker1",
+      "maxEarned": 3
+    },
+    {
+      "id": "joker2",
+      "type": "joker",
+      "copy": "PLAYED 2\nJOKERS",
+      "message": "PLAY 2 JOKER CARDS IN ONE ROUND",
+      "frame": "joker2",
+      "maxEarned": 3
+    },
+    {
+      "id": "joker3",
+      "type": "joker",
+      "copy": "PLAYED 3\nJOKERS",
+      "message": "PLAY 3 JOKER CARDS IN ONE ROUND",
+      "frame": "joker3",
+      "maxEarned": 3
+    },
+    {
+      "id": "game4",
+      "type": "game",
+      "copy": "4 GAME WIN\nSTREAK",
+      "message": "WIN 4 CONSECUTIVE GAMES",
+      "frame": "game4",
+      "maxEarned": 3
+    },
+    {
+      "id": "game5",
+      "type": "game",
+      "copy": "5 GAME WIN\nSTREAK",
+      "message": "WIN 5 CONSECUTIVE GAMES",
+      "frame": "game5",
+      "maxEarned": 3
+    },
+    {
+      "id": "game6",
+      "type": "game",
+      "copy": "6 GAME WIN\nSTREAK",
+      "message": "WIN 6 CONSECUTIVE GAMES",
+      "frame": "game6",
+      "maxEarned": 3
+    },
+    {
+      "id": "game10",
+      "type": "game",
+      "copy": "10 GAME WIN\nSTREAK",
+      "message": "WIN 10 CONSECUTIVE GAMES",
+      "frame": "game10",
+      "maxEarned": 3
+    }
+  ]
+}

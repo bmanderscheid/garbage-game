@@ -1,0 +1,104 @@
+{
+  "homeScreen": {
+    "assets": {
+      "bg": "/assets/images/homeScreenBG@2x.png"
+    }
+  },
+  "realms": {
+    "assets": {
+      "gameBG": "/assets/images/bg@2x.png"
+    },
+    "cards": {
+      "width": 80,
+      "height": 118,
+      "startPoints": [
+        {
+          "x": 290,
+          "y": 560
+        },
+        {
+          "x": 290,
+          "y": 79
+        }
+      ],
+      "hGap": 100,
+      "vGap": 20,
+      "cardsPerRow": 5
+    }
+  },
+  "cardViewManager": {
+    "gameDeck": {
+      "x": 390,
+      "y": 400
+    },
+    "cardInPlay": {
+      "x": 290,
+      "y": 400
+    },
+    "trash": {
+      "x": 600,
+      "y": 400
+    }
+  },
+  "achievements": {
+    "slate": {
+      "x": 770,
+      "y": 630
+    },
+    "badge": {
+      "x": 154,
+      "y": 69
+    },
+    "copy": {
+      "x": 10,
+      "y": 30
+    }
+  },
+  "achievementsScreen": {
+    "title": {
+      "x": 370,
+      "y": 110
+    },
+    "backBtn": {
+      "x": 20,
+      "y": 12
+    },
+    "paper": {
+      "width": 321,
+      "height": 88,
+      "copy": {
+        "x": 60,
+        "y": 8
+      },
+      "banana": {
+        "x": 54,
+        "y": 35,
+        "width": 53,
+        "hGap": 2
+      }
+    },
+    "paperTable": {
+      "x": 18,
+      "y": 192,
+      "col": 3,
+      "hGap": 14,
+      "vGap": 27
+    }
+  },
+  "chooseScreen": {
+    "title": {
+      "x": 250,
+      "y": 100
+    },
+    "avatars": {
+      "x": 126,
+      "y": 380,
+      "width": 226,
+      "hGap": 32
+    },
+    "startBtn": {
+      "x": 430,
+      "y": 600
+    }
+  }
+}

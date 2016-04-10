@@ -1,0 +1,8 @@
+{
+  "characters":[
+    {"name":"Dex","frame":"charDex"},
+    {"name":"Zaida","frame":"charZaida"},
+    {"name":"Fin","frame":"charFin"},
+    {"name":"Claire","frame":"charClaire"}
+  ]
+}
