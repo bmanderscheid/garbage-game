@@ -6,7 +6,7 @@
 
     window.amg.data = window.amg.data || {};
 
-    var cards = [
+    var _cards = [
 
         {frame: "c01", type: "standard", value: "1"},
         {frame: "c02", type: "standard", value: "2"},
@@ -76,7 +76,7 @@
         {frame: "joker", type: "wild", value: "99"},
         {frame: "joker", type: "wild", value: "99"}
     ];
-    var _cards = [
+    var cards = [
 
         {frame: "c01", type: "standard", value: "1"},
         {frame: "c02", type: "standard", value: "2"},

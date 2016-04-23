@@ -25,6 +25,8 @@
         bg = new PIXI.Sprite.fromImage('assets/images/homeScreenBG@2x.png');
         texture = PIXI.Texture.fromFrame("club");
         club = new PIXI.Sprite(texture);
+        club.anchor.set(0.5, 0.5);
+        club.position.set(200,500)
         texture = PIXI.Texture.fromFrame("heart");
         heart = new PIXI.Sprite(texture);
         texture = PIXI.Texture.fromFrame("spade");
@@ -38,12 +40,12 @@
         texture = PIXI.Texture.fromFrame("start");
         this.startBtn = new PIXI.Sprite(texture);
         this.startBtn.interactive = true;
-        this.startBtn.position.set(450, 580);
+        this.startBtn.position.set(450, 650);
         // achievement buttonn
         texture = PIXI.Texture.fromFrame("achievementsBtn");
         this.achievementsBtn = new PIXI.Sprite(texture);
         this.achievementsBtn.interactive = true;
-        this.achievementsBtn.position.set(450, 620);
+        this.achievementsBtn.position.set(830, 685);
         // add
         this.stage.addChild(bg);
         this.stage.addChild(club);

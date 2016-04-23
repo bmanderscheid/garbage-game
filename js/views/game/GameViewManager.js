@@ -278,14 +278,6 @@
         this.realmViewManager.animateCardsToRealmsFromDeck(this.newGameReady, this);
     };
 
-    /// ticker
-    //gsm.update = function (scope) {
-    //    scope.renderer.render(scope.stage);
-    //    requestAnimFrame(function () {
-    //        scope.update(scope);
-    //    });
-    //};
-
     window.amg.managers.GameViewManager = gsm;
 
 }());
